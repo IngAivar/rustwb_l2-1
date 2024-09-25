@@ -1,0 +1,11 @@
+[package]
+name = "rustwb_l2-1"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+
+[[bin]]
+name = "wb"
+path = "src/wb.rs"
